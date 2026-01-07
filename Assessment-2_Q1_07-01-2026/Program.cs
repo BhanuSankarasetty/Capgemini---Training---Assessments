@@ -153,7 +153,7 @@ namespace  DigitalPettyCashLedger
                             Date = DateTime.Now
                         });
 
-                        Console.WriteLine("✅ Expense added successfully.");
+                        Console.WriteLine("Expense added successfully.");
                         break;
 
                     case 2:
@@ -175,7 +175,7 @@ namespace  DigitalPettyCashLedger
                             Date = DateTime.Now
                         });
 
-                        Console.WriteLine("✅ Income added successfully.");
+                        Console.WriteLine("Income added successfully.");
                         break;
 
                     case 3:
