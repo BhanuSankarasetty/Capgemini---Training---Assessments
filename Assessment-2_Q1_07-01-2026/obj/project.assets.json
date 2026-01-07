@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/DigitalPettyCashLedger.csproj",
+      "projectUniqueName": "/Users/murari/Desktop/myWork/C#/Assessments/Assessment-2_Q1_07-01-2026/DigitalPettyCashLedger.csproj",
       "projectName": "DigitalPettyCashLedger",
-      "projectPath": "/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/DigitalPettyCashLedger.csproj",
+      "projectPath": "/Users/murari/Desktop/myWork/C#/Assessments/Assessment-2_Q1_07-01-2026/DigitalPettyCashLedger.csproj",
       "packagesPath": "/Users/murari/.nuget/packages/",
-      "outputPath": "/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/obj/",
+      "outputPath": "/Users/murari/Desktop/myWork/C#/Assessments/Assessment-2_Q1_07-01-2026/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/murari/.nuget/NuGet/NuGet.Config"

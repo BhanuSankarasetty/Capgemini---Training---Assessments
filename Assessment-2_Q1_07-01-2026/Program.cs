@@ -207,11 +207,11 @@ namespace  DigitalPettyCashLedger
 
                     case 0:
                         running = false;
-                        Console.WriteLine("👋 Exiting Ledger. Goodbye!");
+                        Console.WriteLine("Exiting Ledger. Goodbye!");
                         break;
 
                     default:
-                        Console.WriteLine("❌ Invalid choice. Try again.");
+                        Console.WriteLine("Invalid choice. Try again.");
                         break;
                 }
             }
