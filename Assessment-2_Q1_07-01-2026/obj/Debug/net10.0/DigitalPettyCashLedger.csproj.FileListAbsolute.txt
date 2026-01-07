@@ -1,0 +1,15 @@
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/obj/Debug/net10.0/DigitalPettyCashLedger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/obj/Debug/net10.0/DigitalPettyCashLedger.AssemblyInfoInputs.cache
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/obj/Debug/net10.0/DigitalPettyCashLedger.AssemblyInfo.cs
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/obj/Debug/net10.0/DigitalPettyCashLedger.csproj.CoreCompileInputs.cache
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/obj/Debug/net10.0/DigitalPettyCashLedger.sourcelink.json
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/bin/Debug/net10.0/DigitalPettyCashLedger
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/bin/Debug/net10.0/DigitalPettyCashLedger.deps.json
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/bin/Debug/net10.0/DigitalPettyCashLedger.runtimeconfig.json
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/bin/Debug/net10.0/DigitalPettyCashLedger.dll
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/bin/Debug/net10.0/DigitalPettyCashLedger.pdb
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/obj/Debug/net10.0/DigitalPettyCashLedger.dll
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/obj/Debug/net10.0/refint/DigitalPettyCashLedger.dll
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/obj/Debug/net10.0/DigitalPettyCashLedger.pdb
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/obj/Debug/net10.0/DigitalPettyCashLedger.genruntimeconfig.cache
+/Users/murari/Desktop/myWork/C#/Assessments/DigitalPettyCashLedger/obj/Debug/net10.0/ref/DigitalPettyCashLedger.dll
